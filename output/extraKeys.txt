@@ -1,0 +1,1 @@
+{"DIC_ACTION_MENU_UNBLOCK_IN_SETTINGS": "Unblock in Settings", "DIC_SETTINGS_LANG_MYS": "Mesmes", "DIC_SETTINGS_DEVICE_INFO": "Device Info"}
